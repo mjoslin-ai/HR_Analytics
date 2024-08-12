@@ -6,8 +6,7 @@ This is a guided project to learn Power BI by codebasics on YouTube (www.youtube
 
 ## Problem Statement
 
-The dashboard helps to understanding employee preference between work from home and work from office over time, as well as exployee wellness. It helps an employer in further diagnosing the reason why employees take frequent work from home days on specific days of the week. In person team building or meetings can be scheduled on days with highest percentage of present employees. In addition, in a hyprid work from home and work from office, an employer can have a data driven approach to better office capacity planning when it comes to space utilization and infrastructure cost. 
-
+The dashboard provides insights into employee preferences for working from home versus working from the office over time, as well as employee wellness trends. It allows employers to identify patterns when multiple employees take sick leave during specific months, enabling proactive measures. Additionally, it assists in understanding why employees frequently choose to work from home on certain days of the week. This information can be used to schedule in-person team-building activities or meetings on days when employee attendance is highest. Moreover, in a hybrid work model, the dashboard supports data-driven decisions for optimizing office capacity planning when concerning space utilization and infrastructure costs.
 
 ### Steps followed 
 
