@@ -6,7 +6,7 @@ This is a guided project to learn Power BI by codebasics on YouTube (www.youtube
 
 ## Problem Statement
 
-The dashboard helps in understanding employee 
+The dashboard helps to understanding employee preference between work from home and work from office over time, as well as exployee wellness. It helps an employer in further diagnosing the reason why employees take frequent work from home days on specific days of the week. 
 
 
 ### Steps followed 
@@ -19,5 +19,4 @@ The dashboard helps in understanding employee
 - Step 6 : In the report view, under the view tab, theme was selected.
 - Step 7 : Since the data contains various ratings, thus in order to represent ratings, a new visual was added using the three ellipses in the visualizations pane in report view. 
 - Step 8 : Visual filters (Slicers) were added for four fields named "Class", "Customer Type", "Gate Location" & "Type of travel".
-- Step 9 : Two card visuals were added to the canvas, one representing average departure delay in minutes & other representing average arrival delay in minutes.
-           Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
+- Step 9 : 
