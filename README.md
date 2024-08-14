@@ -12,14 +12,28 @@ The dashboard provides insights into employee preferences for working from home 
 
 - Step 1 : Load and transform Excel data by merging multiple sheets with different column headers (representing dates) into a single column. Ensure the process avoids hard coding, allowing it to be applicable to additional sheets.
 - Step 2 : Add extra columns (work from home count, month, sick leave count, day of week) to the transformed data, alongside measures using DAX (present %, present days, sick leave %, sick leave count, total working days, work from home %, work from home count). The measures are organized together in a separate measures table.
-- Step 3 : 
-- Step 4 : 
+- Step 3 : Display presence %, work from home %, and sick leave % on the dashboard, segmented by employee, day of the week, and overall trend by date. Additionally, break down the data by each month.
 
 ## Insights
 
-A single page report was created on Power BI Desktop and it was then published to Power BI Service provided in the link above. 
+A single page report was created on Power BI Desktop and it was then published to Power BI Service provided in the above link. 
 
+### Apr 2022 - Jun 2022
 
+#### Presence
+- 91.83%
+- Decreasing trend
+- Most present on Monday and least present on Friday
+
+#### Work From Home
+- 10.00%
+- Trending with little variation
+- Work from home highest on Friday and lowest on Tuesday
+
+#### Sick Leave
+- 1.10%
+- Increasing trend
+- Highest sick leave on Friday and lowest on Friday
 
 
 
