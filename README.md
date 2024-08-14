@@ -11,14 +11,9 @@ The dashboard provides insights into employee preferences for working from home 
 ### Steps followed 
 
 - Step 1 : Load and transform Excel data by merging multiple sheets with different column headers (representing dates) into a single column. Ensure the process avoids hard coding, allowing it to be applicable to additional sheets.
-- Step 2 : Add extra columns (work from home count, month, sick leave count, day of week) to the transformed data, alongside measures (present %, present days, sick leave %, sick leave count, total working days, work from home %, work from home count). The measures are organized together in a separate measures table.
+- Step 2 : Add extra columns (work from home count, month, sick leave count, day of week) to the transformed data, alongside measures using DAX (present %, present days, sick leave %, sick leave count, total working days, work from home %, work from home count). The measures are organized together in a separate measures table.
 - Step 3 : 
 - Step 4 : 
-- Step 5 : 
-- Step 6 : 
-- Step 7 : 
-- Step 8 : 
-- Step 9 : 
 
 ## Insights
 
