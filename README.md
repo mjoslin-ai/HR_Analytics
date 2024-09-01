@@ -4,7 +4,7 @@ This is a guided project to learn Power BI by codebasics on YouTube (www.youtube
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWU0YmM4YjUtNTY4OC00MGI5LWIzMGYtZDk0ZmNkNWFhNDBkIiwidCI6IjhhOGY0OGUyLTdmOTktNDU5OC05MTAwLWEwZjBjY2M0Yjg5NiIsImMiOjZ9
 
-## Problem Statement
+## Objective
 
 The dashboard provides insights into employee preferences for working from home versus working from the office over time, as well as employee wellness trends. It allows employers to identify patterns when multiple employees take sick leave during specific months, enabling proactive measures. Additionally, it assists in understanding why employees frequently choose to work from home on certain days of the week. This information can be used to schedule in-person team-building activities or meetings on days when employee attendance is highest. Moreover, in a hybrid work model, the dashboard supports data-driven decisions for optimizing office capacity planning when concerning space utilization and infrastructure costs.
 
