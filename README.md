@@ -1,4 +1,4 @@
-# HR-Dashboard
+# PowerBI-HR_Dashboard
 
 This is a guided project to learn Power BI by codebasics on YouTube (www.youtube.com/watch?v=JC66t9eM10s)
 
