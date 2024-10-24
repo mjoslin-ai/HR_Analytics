@@ -33,7 +33,7 @@ A single page report was created on Power BI Desktop and it was then published t
 #### Sick Leave
 - 1.10%
 - Increasing trend
-- Highest sick leave on Friday and lowest on Friday
+- Highest sick leave on Monday and lowest on Friday
 
 
 
